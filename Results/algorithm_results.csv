@@ -1,0 +1,6 @@
+Algorithm,PlanningTime_s,PathLength_m,NodesExplored,Success
+A*,0.0649,550.21,9930,True
+Dijkstra,0.2670,550.21,54736,True
+BFS,0.1317,550.21,43687,True
+Greedy,0.0019,550.21,209,True
+D* Lite,0.5734,550.21,8258,True
